@@ -24,7 +24,8 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/futuristic-mexico.svg" alt="Remesas Futuristas México" width="80%"/>
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/9c30d767-986f-4057-ba3d-d392c314d511" />
+
 </p>
 
 ---
