@@ -117,10 +117,10 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
 
 </div>
 
-
-- **ENS:** Identidades fáciles de recordar y compartir.
 - **Scroll (Layer 2):** Transacciones ultrarrápidas y económicas.
+- **Stablecoins (USDC/DAI):** El valor que envías es el valor que reciben.
 - **Smart Contracts (Solidity):** Fondos protegidos, auditados y transparentes.
+- **ENS:** Identidades fáciles de recordar y compartir.
 - **Stablecoins (USDC/DAI):** El valor que envías es el valor que reciben.
 - **AI ChatOps:** Automatización, seguridad y facilidad de uso por chat.
 
