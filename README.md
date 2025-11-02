@@ -151,4 +151,4 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
   <b>“Sigo contigo, aunque no esté ahí.”</b><br>
 
  <img width="1920" height="1080" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/67da773e-9458-4e32-9fc7-f431c3c2b2e8" />
-![WhatsApp Image 2025-11-02 at 2 13 47 a m](https://github.com/user-attachments/assets/8017891d-38ae-41df-8be1-cf2a112dab41)
+<img width="2000" height="1600" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/8017891d-38ae-41df-8be1-cf2a112dab41"/>
