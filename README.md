@@ -39,13 +39,23 @@
 **Tlalix** es la plataforma de remesas más avanzada para familias mexicanas. Combinamos tecnología Web3, stablecoins y automatización inteligente para garantizar que tu apoyo llegue completo, rápido y sin fricciones, desde cualquier parte del mundo.
 
 > **Enviar dinero no es solo una transacción. Es cuidar a quienes amamos, estar presentes y mantener nuestras raíces, sin importar la distancia.**
+---
+
+# 🌎 Raíz y propósito
+
+**Tlalix** proviene del náhuatl *tlalli*: tierra, origen, hogar.
+
+> Enviar remesas es sostener el hogar, mantener viva la raíz,  
+> es decir: “sigo contigo, aunque no esté ahí.”
+
+**Tlalix** combina la tradición y cultura mexicana con tecnología global para fortalecer la conexión, la presencia y el cuidado de quienes más importan.
 
 ---
 
 # 🚩 El problema actual
 
 - **Comisiones excesivas:** Hasta 8% por transacción.
-- **Tipo de cambio injusto:** Las familias pierden entre $200 y $600 MXN mensuales.
+- **Tipo de cambio injusto:** Las familias pierden entre $200 y $600 USD mensuales.
 - **Inclusión limitada:** El 67% de los mexicanos no tiene cuenta bancaria.
 - **Tiempo y riesgos:** Filas, traslados, dependencia de terceros y riesgo de fraude.
 - **Pérdida anual:** Más de $155 mil millones de dólares se esfuman solo en comisiones y diferencias de tipo de cambio en Latinoamérica.
@@ -86,7 +96,7 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
 
 # 🏆 Beneficios
 
-| Para quien envía | Para quien recibe | Para las tienditas |
+| Para quien envía | Para quien recibe | comercio de puntas de retiro |
 |:----------------:|:----------------:|:------------------:|
 | Comisión de 1.5% | Efectivo sin banco | Ganan 0.5% por retiro |
 | Tipo de cambio justo e instantáneo | Sin apps ni trámites complejos | Atraen nuevos clientes |
@@ -127,25 +137,14 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
 - Tienditas aliadas ganan **0.5%** por cada retiro, incentivando la expansión de la red.
 
 ---
-
-# 🌎 Raíz y propósito
-
-**Tlalix** proviene del náhuatl *tlalli*: tierra, origen, hogar.
-
-> Enviar remesas es sostener el hogar, mantener viva la raíz,  
-> es decir: “sigo contigo, aunque no esté ahí.”
-
-**Tlalix** combina la tradición y cultura mexicana con tecnología global para fortalecer la conexión, la presencia y el cuidado de quienes más importan.
-
----
 ## 👊 Nuestro equipo
 
-|    Nombre                                                                          |         Rol                                                      | 
-|-----------------------------------------------------|-----------------------------------------|
-| Edgar Ceron, Emmanuel Velásquez Gerón            |  Developer                                                  | 
-| Sandra Erika Sanchez Fragozo                                |Diseñadora UX/UI                                       |
-| Jhoana Isabel Ruelas Hernández                              | Project manager                                         | 
-| Alejandro Xochicale Ayala                                        |  Marketing y estrategia de crecimiento    | 
+|    Nombre                                           |         Rol                             |   Correo Electronico
+|-----------------------------------------------------|-----------------------------------------|-------------------------------------------
+| Edgar Ceron, Emmanuel Velásquez Gerón               |  Developer                              | edgar200454@gmail.com, velasquezemmanuel87@gmail.com
+| Sandra Erika Sanchez Fragozo                        |Diseñadora UX/UI                         |sandrafragozo24@gmail.com
+| Jhoana Isabel Ruelas Hernández                      | Project manager                         | Jhoana.jirh@gmail.com
+| Alejandro Xochicale Ayala                           |  Marketing y estrategia de crecimiento  | xochicale832@gmail.com
 -----------
 
 <p align="center">
