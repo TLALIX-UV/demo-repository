@@ -101,7 +101,7 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
   <img src="https://img.shields.io/badge/Stablecoins-USDC%20%7C%20DAI-43a047?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Identidad-ENS-43e5ab?style=for-the-badge&logo=ens"/>
   <img src="https://img.shields.io/badge/AI%20Assistant-ChatOps-8e24aa?style=for-the-badge&logo=openai"/>
-  <img width="60" height="30" alt="image" src="https://github.com/user-attachments/assets/d3675e82-4e19-4090-b012-5b81a89eed01" />
+  <img width="70" height="30" alt="image" src="https://github.com/user-attachments/assets/d3675e82-4e19-4090-b012-5b81a89eed01" />
 
  
 
