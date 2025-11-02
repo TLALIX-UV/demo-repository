@@ -26,7 +26,7 @@
 <p align="center">
 
 ![WhatsApp Image 2025-11-02 at 1 10 19 a m](https://github.com/user-attachments/assets/51b2cf92-722e-4001-8956-a3de8fd821f0)
-![WhatsApp Image 2025-11-02 at 1 15 45 a m](https://github.com/user-attachments/assets/f1fa54fb-56f9-4862-937d-6b71f8870e21)
+
 
 
 </p>
