@@ -141,10 +141,11 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
 
 |    Nombre                                           |         Rol                             |   Correo Electronico
 |-----------------------------------------------------|-----------------------------------------|-------------------------------------------
-| Edgar Ceron, Emmanuel Velásquez Gerón               |  Developer                              | edgar200454@gmail.com, velasquezemmanuel87@gmail.com
-| Sandra Erika Sanchez Fragozo                        |Diseñadora UX/UI                         |sandrafragozo24@gmail.com
+| Edgar Ceron                                         |  Developer                              | edgar200454@gmail.com
+| Emmanuel Velásquez Gerón                            |  Developer                              | velasquezemmanuel87@gmail.com
+| Sandra Erika Sanchez Fragozo                        | Diseñadora UX/UI                        |sandrafragozo24@gmail.com
 | Jhoana Isabel Ruelas Hernández                      | Project manager                         | Jhoana.jirh@gmail.com
-| Alejandro Xochicale Ayala                           |  Marketing y estrategia de crecimiento  | xochicale832@gmail.com
+| Alejandro Xochicale Ayala                           | mMarketing y estrategia de crecimiento  | xochicale832@gmail.com
 -----------
 
 <p align="center">
