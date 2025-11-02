@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Web3-Seguro%20%26%20Transparente-2962ff?style=for-the-badge&logo=web3.js"/>
   <img src="https://img.shields.io/badge/Stablecoins-USDC%2FDAI-43a047?style=for-the-badge&logo=usd-coin"/>
   <img src="https://img.shields.io/badge/AI%20Powered-Envíos%20por%20chat-8e24aa?style=for-the-badge&logo=whatsapp"/>
+ 
 </p>
 
 <br>
@@ -100,6 +101,8 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
   <img src="https://img.shields.io/badge/Stablecoins-USDC%20%7C%20DAI-43a047?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Identidad-ENS-43e5ab?style=for-the-badge&logo=ens"/>
   <img src="https://img.shields.io/badge/AI%20Assistant-ChatOps-8e24aa?style=for-the-badge&logo=openai"/>
+ [![Network: Scroll](https://img.shields.io/badge/Network-Scroll-0AB7FF?style=for-the-badge)](https://scroll.io)
+
 </div>
 
 
