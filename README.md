@@ -24,8 +24,9 @@
 <br>
 
 <p align="center">
-<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/9c30d767-986f-4057-ba3d-d392c314d511" />
-<img width="1600" height="586" alt="image" src="https://github.com/user-attachments/assets/e51a388a-9d7e-43c7-8d75-d3d7f5ecb3d1" />
+
+![WhatsApp Image 2025-11-02 at 1 15 45 a m](https://github.com/user-attachments/assets/f1fa54fb-56f9-4862-937d-6b71f8870e21)
+![WhatsApp Image 2025-11-02 at 1 10 19 a m](https://github.com/user-attachments/assets/51b2cf92-722e-4001-8956-a3de8fd821f0)
 
 
 </p>
